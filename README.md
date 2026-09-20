@@ -188,5 +188,5 @@ Data files (`*.parquet`) are excluded from the repository.
 ## Credits & disclaimer
 
 - Rust bot based on the MIT-licensed [ETHEREUM-MEV-BOT](https://github.com/AIO-MEV/ETHEREUM-MEV-BOT) template; original license retained in `mev-bot/rust/LICENSE`.
-- Research code and README: MIT © 2026 Yifan Feng.
+- Research code and README: MIT © 2026 Venti.
 - This repository is for research and educational purposes only. Nothing here is investment advice. Never commit private keys.
