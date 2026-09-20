@@ -1,0 +1,18 @@
+# Data (not redistributed)
+data/
+*.parquet
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Rust
+target/
+
+# Secrets
+.env
+
+# macOS
+.DS_Store
